@@ -1,4 +1,4 @@
-**Purpose:** We have been provided with a dataset of 7,501 transactions from a popular commodity shop. Our goal is to identify the most suitable product 
+**Purpose:** I have been provided with a dataset of 7,501 transactions from a popular commodity shop. My goal is to identify the most suitable product 
 
 pairs for the 'Buy 1 Get 1' offer, as determined by the shop owner. To achieve this, I have applied the Apriori algorithm to identify the most 
 
