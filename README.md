@@ -15,3 +15,5 @@ A brief description of each metric is given below.
 * $\color{green}{\text{Confidence}}$ tells you how often items on the right-hand side (Y) are bought when the items on the left-hand side (X) are bought.
 
 * $\color{green}{\text{Lift}}$ tells you how much more likely X and Y are to be bought together compared to if they were independent.
+
+* Return to main page (https://github.com/DanMolefe)
